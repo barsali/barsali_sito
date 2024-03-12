@@ -10,3 +10,6 @@ yarn-error.log
 
 #Yarn.lock
 yarn.lock
+
+# Local Netlify folder
+.netlify
